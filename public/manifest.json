@@ -1,0 +1,17 @@
+{
+  "name": "Syndic Immeuble",
+  "short_name": "Syndic",
+  "description": "Gestion de copropriété simplifiée",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#059669",
+  "theme_color": "#059669",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://z-cdn.chatglm.cn/z-ai/static/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
